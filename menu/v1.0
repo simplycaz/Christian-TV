@@ -7,11 +7,11 @@ name =  dmode
 
 
 <item>
-<title>TVJ.</title>
+<title>CBC TV Barbados</title>
 <link>
-<sublink>http://rjr_flash-lh.akamaihd.net/i/tvj_1@191979/master.m3u8</sublink>
+<sublink>http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8</sublink>
 </link>
-<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Television-Jamaica-Live-TV-from-Jamaica.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/CBC_logo_alternate.svg/250px-CBC_logo_alternate.svg.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
