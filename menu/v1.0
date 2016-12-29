@@ -16,10 +16,10 @@ name =  dmode
 </item>
 <item>
 
-<title>CineStream TV Barbados</title>
+<title>ZNS TV Bahamas</title>
 <link>
-<sublink>http://68.71.42.179/live/livestream1/playlist.m3u8</sublink>
+<sublink>http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8</sublink>
 </link>
-<thumbnail>https://static.filmon.com/assets/channels/3175/big_logo.png</thumbnail>
+<thumbnail>https://northbahamasconference.interamerica.org/uploaded_assets/47504-znslogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
