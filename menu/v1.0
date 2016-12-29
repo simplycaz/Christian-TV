@@ -1,9 +1,8 @@
 <item>
-<title>BBC News</title>
+<title>TVJ</title>
 <link>
-<sublink>http://www.filmon.com/channel/bbc-news</sublink>
-<sublink>http://www.shadow-net.org/channels/BBC-News.html</sublink>
+<sublink>http://rjr_flash-lh.akamaihd.net/i/tvj_1@191979/master.m3u8s</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Television-Jamaica-Live-TV-from-Jamaica.jpg</thumbnail>
 <fanart></fanart>
 </item>
