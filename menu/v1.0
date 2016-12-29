@@ -24,6 +24,18 @@ name =  dmode
 <fanart></fanart>
 </item>
 
+
+
+<item>
+<title>CBC TV Barbados</title>
+<link>
+<sublink>http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/CBC_logo_alternate.svg/250px-CBC_logo_alternate.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
 <title>CNC3 Trinidad & Tobago</title>
 <link>rtmp://live.cnc3.co.tt:1935/livepkgr/livestream</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/68/CNC3TV.jpg/200px-CNC3TV.jpg</thumbnail>
