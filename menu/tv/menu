@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-name =  dmode
- dir = ndmode
-
-
-
-
 <item>
 <title>CBC TV Barbados</title>
 <link>
@@ -24,13 +16,12 @@ name =  dmode
 <fanart></fanart>
 </item>
 
-<title>test</title>
+<item>
+<title>CBC TV Barbados</title>
 <link>
-<sublink>http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv</sublink>
+<sublink>http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/CBC_logo_alternate.svg/250px-CBC_logo_alternate.svg.png</thumbnail>
 <fanart></fanart>
 </item>
-
-
-
+<item>
