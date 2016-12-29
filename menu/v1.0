@@ -23,3 +23,11 @@ name =  dmode
 <thumbnail>https://northbahamasconference.interamerica.org/uploaded_assets/47504-znslogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<title>CNC3 Trinidad & Tobago</title>
+<link>
+<sublink>rtmp://live.cnc3.co.tt:1935/livepkgr/livestream</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/68/CNC3TV.jpg/200px-CNC3TV.jpg</thumbnail>
+<fanart></fanart>
+</item>
