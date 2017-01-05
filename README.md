@@ -1,2 +1,2 @@
-# ArawakTV
-addon by Simply Caz / Team X
+# Christian TV
+addon by Simply Caz 
